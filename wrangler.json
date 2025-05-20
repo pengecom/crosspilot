@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "crosspilot",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "4b0885e1-a145-4bea-afbc-69947d9c5c51",
+      "database_name": "CrossPilot-D1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
